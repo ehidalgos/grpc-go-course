@@ -1,9 +1,9 @@
 module github.com/Clement-Jean/grpc-go-course
 
-go 1.19
+go 1.18
 
 require (
-	go.mongodb.org/mongo-driver v1.11.2
+	go.mongodb.org/mongo-driver v1.12.1
 	google.golang.org/grpc v1.53.0
 	google.golang.org/protobuf v1.28.1
 )
